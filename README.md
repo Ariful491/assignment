@@ -63,4 +63,10 @@ Open your .env file and change the database name (DB_DATABASE) to whatever you h
 you will get   all default data that's you prepared.
  
 ##short demo
+
+
+https://user-images.githubusercontent.com/52754507/189491689-29b9886c-7062-4d11-9fc8-29c2484dd812.mp4
+
+
+
  
