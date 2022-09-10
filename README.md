@@ -61,13 +61,17 @@ Open your .env file and change the database name (DB_DATABASE) to whatever you h
 ```
 
 ###After seeding
+
 you will get   all default data that's you prepared.
  
-##short demo
+##short demo screen short
+![Screenshot 2022-09-10 223131](https://user-images.githubusercontent.com/52754507/189492846-dad72571-2a72-4506-b569-cbd6ab20154e.png)
+![Screenshot 2022-09-10 223114](https://user-images.githubusercontent.com/52754507/189492847-43594f9a-47af-4552-98dd-88b3e6857d4b.png)
+![Screenshot 2022-09-10 223035](https://user-images.githubusercontent.com/52754507/189492849-7c3bb668-7aec-453a-abe0-cf698eb549c1.png)
+![Screenshot 2022-09-10 223017](https://user-images.githubusercontent.com/52754507/189492851-5c70b5af-8fb1-4ce3-b427-b9f70072c196.png)
+![Screenshot 2022-09-10 223154](https://user-images.githubusercontent.com/52754507/189492854-9f31a185-2b91-46a0-8571-152e3e68fdfb.png)
 
-
-https://user-images.githubusercontent.com/52754507/189491689-29b9886c-7062-4d11-9fc8-29c2484dd812.mp4
-
+![Screenshot 2022-09-10 223407](https://user-images.githubusercontent.com/52754507/189492914-58ad8d28-70fe-40c3-9193-b2717f783161.png)
 
 
  
